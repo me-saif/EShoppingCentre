@@ -9,3 +9,4 @@ E:\Projects\dotnetcore\EShoppingCentre\EShoppingCentre\EShoppingCentre.Utility\o
 E:\Projects\dotnetcore\EShoppingCentre\EShoppingCentre\EShoppingCentre.Utility\obj\Debug\net5.0\EShoppingCentre.Utility.dll
 E:\Projects\dotnetcore\EShoppingCentre\EShoppingCentre\EShoppingCentre.Utility\obj\Debug\net5.0\ref\EShoppingCentre.Utility.dll
 E:\Projects\dotnetcore\EShoppingCentre\EShoppingCentre\EShoppingCentre.Utility\obj\Debug\net5.0\EShoppingCentre.Utility.pdb
+E:\Projects\dotnetcore\EShoppingCentre\EShoppingCentre\EShoppingCentre.Utility\obj\Debug\net5.0\EShoppingCentre.Utility.csproj.AssemblyReference.cache

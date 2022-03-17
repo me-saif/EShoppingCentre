@@ -1,0 +1,11 @@
+E:\Projects\dotnetcore\EShoppingCentre\EShoppingCentre\EShoppingCentre.Utility\bin\Debug\net5.0\EShoppingCentre.Utility.deps.json
+E:\Projects\dotnetcore\EShoppingCentre\EShoppingCentre\EShoppingCentre.Utility\bin\Debug\net5.0\EShoppingCentre.Utility.dll
+E:\Projects\dotnetcore\EShoppingCentre\EShoppingCentre\EShoppingCentre.Utility\bin\Debug\net5.0\ref\EShoppingCentre.Utility.dll
+E:\Projects\dotnetcore\EShoppingCentre\EShoppingCentre\EShoppingCentre.Utility\bin\Debug\net5.0\EShoppingCentre.Utility.pdb
+E:\Projects\dotnetcore\EShoppingCentre\EShoppingCentre\EShoppingCentre.Utility\obj\Debug\net5.0\EShoppingCentre.Utility.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\dotnetcore\EShoppingCentre\EShoppingCentre\EShoppingCentre.Utility\obj\Debug\net5.0\EShoppingCentre.Utility.AssemblyInfoInputs.cache
+E:\Projects\dotnetcore\EShoppingCentre\EShoppingCentre\EShoppingCentre.Utility\obj\Debug\net5.0\EShoppingCentre.Utility.AssemblyInfo.cs
+E:\Projects\dotnetcore\EShoppingCentre\EShoppingCentre\EShoppingCentre.Utility\obj\Debug\net5.0\EShoppingCentre.Utility.csproj.CoreCompileInputs.cache
+E:\Projects\dotnetcore\EShoppingCentre\EShoppingCentre\EShoppingCentre.Utility\obj\Debug\net5.0\EShoppingCentre.Utility.dll
+E:\Projects\dotnetcore\EShoppingCentre\EShoppingCentre\EShoppingCentre.Utility\obj\Debug\net5.0\ref\EShoppingCentre.Utility.dll
+E:\Projects\dotnetcore\EShoppingCentre\EShoppingCentre\EShoppingCentre.Utility\obj\Debug\net5.0\EShoppingCentre.Utility.pdb

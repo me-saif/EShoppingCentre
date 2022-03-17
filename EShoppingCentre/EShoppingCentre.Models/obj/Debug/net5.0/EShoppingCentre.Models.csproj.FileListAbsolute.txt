@@ -1,0 +1,12 @@
+E:\Projects\dotnetcore\EShoppingCentre\EShoppingCentre\EShoppingCentre.Models\bin\Debug\net5.0\EShoppingCentre.Models.deps.json
+E:\Projects\dotnetcore\EShoppingCentre\EShoppingCentre\EShoppingCentre.Models\bin\Debug\net5.0\EShoppingCentre.Models.dll
+E:\Projects\dotnetcore\EShoppingCentre\EShoppingCentre\EShoppingCentre.Models\bin\Debug\net5.0\ref\EShoppingCentre.Models.dll
+E:\Projects\dotnetcore\EShoppingCentre\EShoppingCentre\EShoppingCentre.Models\bin\Debug\net5.0\EShoppingCentre.Models.pdb
+E:\Projects\dotnetcore\EShoppingCentre\EShoppingCentre\EShoppingCentre.Models\obj\Debug\net5.0\EShoppingCentre.Models.csproj.AssemblyReference.cache
+E:\Projects\dotnetcore\EShoppingCentre\EShoppingCentre\EShoppingCentre.Models\obj\Debug\net5.0\EShoppingCentre.Models.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\dotnetcore\EShoppingCentre\EShoppingCentre\EShoppingCentre.Models\obj\Debug\net5.0\EShoppingCentre.Models.AssemblyInfoInputs.cache
+E:\Projects\dotnetcore\EShoppingCentre\EShoppingCentre\EShoppingCentre.Models\obj\Debug\net5.0\EShoppingCentre.Models.AssemblyInfo.cs
+E:\Projects\dotnetcore\EShoppingCentre\EShoppingCentre\EShoppingCentre.Models\obj\Debug\net5.0\EShoppingCentre.Models.csproj.CoreCompileInputs.cache
+E:\Projects\dotnetcore\EShoppingCentre\EShoppingCentre\EShoppingCentre.Models\obj\Debug\net5.0\EShoppingCentre.Models.dll
+E:\Projects\dotnetcore\EShoppingCentre\EShoppingCentre\EShoppingCentre.Models\obj\Debug\net5.0\ref\EShoppingCentre.Models.dll
+E:\Projects\dotnetcore\EShoppingCentre\EShoppingCentre\EShoppingCentre.Models\obj\Debug\net5.0\EShoppingCentre.Models.pdb
